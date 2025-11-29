@@ -18,10 +18,8 @@
   </p>
 </div>
 
-<div align="center">
-  <img alt="3D Stats" 
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KiritoSama777&show_icons=true&theme=radical&hide_border=true" 
-       width="49%" />
+<div align="center" style="margin-top:40px;">
+    <img src="https://raw.githubusercontent.com/KiritoSama777/KiritoSama777/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="60%">
 </div>
 
 <p align="center">
