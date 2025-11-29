@@ -18,9 +18,6 @@
   </p>
 </div>
 
-<div align="center" style="margin-top:40px;">
-    <img src="https://raw.githubusercontent.com/KiritoSama777/KiritoSama777/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="60%">
-</div>
 
 <p align="center">
   <a href="https://discord.gg/AnYC2H27Kj" target="_blank">
@@ -34,3 +31,13 @@
     <img alt="Typing" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2500&pause=1000&color=4182E2&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Storm Rework+%E2%9A%A1" />
   </picture>
 </div>
+
+<!-- GitHub Stats -->
+![Stats](https://github-readme-stats.vercel.app/api?username=KiritoSama777&show_icons=true&include_all_commits=true&count_private=true&title_color=4182E2&icon_color=4182E2&text_color=4182E2&border_color=4182E2&bg_color=00000000)
+
+<!-- GitHub Streak -->
+![Streak](https://streak-stats.demolab.com?user=KiritoSama777&theme=transparent&ring=4182E2&fire=4182E2&currStreakLabel=4182E2&sideNums=4182E2&sideLabels=4182E2&dates=4182E2&border=4182E2)
+
+<!-- Most Used Languages -->
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KiritoSama777&layout=compact&title_color=4182E2&text_color=4182E2&border_color=4182E2&bg_color=00000000)
+
