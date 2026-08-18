@@ -79,5 +79,4 @@ paixao: "Performance, Arquitetura Limpa e Design Moderno"
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4182E2&height=100&section=footer" width="100%" alt="Footer Banner"/>
-  <p><i>⚡ "Transformando café e linhas de código em experiências extraordinárias." — <strong>Kirito</strong></i></p>
 </div>
