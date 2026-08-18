@@ -67,11 +67,11 @@ paixao: "Performance, Arquitetura Limpa e Design Moderno"
   <p>Junte-se à nossa comunidade no Discord para acompanhar novidades, tirar dúvidas e trocar ideias!</p>
 
   <a href="https://discord.gg/UJVmYQaZQH" target="_blank">
-    <img src="https://img.shields.io/badge/Entrar%20no%20Discord-Storm%20Rework-4182E2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server" />
+    <img src="https://img.shields.io/badge/Entrar%20no%20Discord-Storm%20Rework-4182E2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/KiritoSama777" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-KiritoSama777-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+    <img src="https://img.shields.io/badge/GitHub-KiritoSama777-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
 </div>
 
