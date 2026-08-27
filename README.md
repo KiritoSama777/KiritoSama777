@@ -1,11 +1,13 @@
 <div align="center">
 
+  <!-- Top Animated Banner -->
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=49E241&height=180&section=header&text=Kirito%20%7C%20FlowStudios&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn"
     width="100%"
     alt="Kirito | FlowStudios"
   />
 
+  <!-- Animated Typing SVG -->
   <a href="https://github.com/KiritoSama777">
     <img
       src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1200&color=49E241&center=true&vCenter=true&width=700&lines=%E2%9A%A1+Kirito+%7C+FlowStudios+%E2%9A%A1;%F0%9F%9A%80+Back-end+%26+Front-end+Developer;%F0%9F%9B%A0%EF%B8%8F+Lua+%E2%80%A2+TypeScript+%E2%80%A2+Svelte+%E2%80%A2+Node.js;%F0%9F%8C%90+Criando+Sistemas+de+Alta+Performance"
@@ -15,6 +17,7 @@
 
   <br><br>
 
+  <!-- Profile Status & Counters -->
   <p align="center">
     <img
       alt="Profile Views"
