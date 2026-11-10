@@ -27,7 +27,7 @@
 ```yaml
 nome: "Kirito"
 funcao: "Back-end & Front-end Developer"
-projeto: "FlowStudio"
+projeto: "Flow Studio"
 foco_atual: "Ecossistema & Ferramentas FlowStudio"
 paixao: "Performance, Arquitetura Limpa e Design Moderno"
 ```
