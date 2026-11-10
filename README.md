@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=49E241&height=180&section=header&text=Kirito%20%7C%20FlowStudios&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="Kirito | FlowStudios" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=49E241&height=180&section=header&text=Kirito%20%7C%20FlowStudios&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="Kirito | Flow Studio" />
 
-<a href="https://github.com/KiritoSama777"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1200&color=49E241&center=true&vCenter=true&width=700&lines=%E2%9A%A1+Kirito+%7C+FlowStudios+%E2%9A%A1;%F0%9F%9A%80+Back-end+%26+Front-end+Developer;%F0%9F%9B%A0%EF%B8%8F+Lua+%E2%80%A2+TypeScript+%E2%80%A2+Svelte+%E2%80%A2+Node.js;%F0%9F%8C%90+Criando+Sistemas+de+Alta+Performance" alt="Kirito | FlowStudios" /></a>
+<a href="https://github.com/KiritoSama777"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1200&color=49E241&center=true&vCenter=true&width=700&lines=%E2%9A%A1+Kirito+%7C+FlowStudio+%E2%9A%A1;%F0%9F%9A%80+Back-end+%26+Front-end+Developer;%F0%9F%9B%A0%EF%B8%8F+Lua+%E2%80%A2+TypeScript+%E2%80%A2+Svelte+%E2%80%A2+Node.js;%F0%9F%8C%90+Criando+Sistemas+de+Alta+Performance" alt="Kirito | FlowStudio" /></a>
 
 <br><br>
 
@@ -14,7 +14,7 @@
 
 <br><br>
 
-<a href="https://discord.gg/eyNRxr5Muf"><img src="https://img.shields.io/badge/FlowStudios-Comunidade%20Oficial-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord FlowStudios" /></a>
+<a href="https://discord.gg/eyNRxr5Muf"><img src="https://img.shields.io/badge/FlowStudios-Comunidade%20Oficial-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Flow Studio" /></a>
 &nbsp;&nbsp;
 <a href="https://github.com/KiritoSama777"><img src="https://img.shields.io/badge/Status-Dispon%C3%ADvel%20para%20Projetos-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="Disponível para Projetos" /></a>
 
@@ -27,8 +27,8 @@
 ```yaml
 nome: "Kirito"
 funcao: "Back-end & Front-end Developer"
-projeto: "FlowStudios"
-foco_atual: "Ecossistema & Ferramentas FlowStudios"
+projeto: "FlowStudio"
+foco_atual: "Ecossistema & Ferramentas FlowStudio"
 paixao: "Performance, Arquitetura Limpa e Design Moderno"
 ```
 
@@ -90,17 +90,17 @@ paixao: "Performance, Arquitetura Limpa e Design Moderno"
 
 ---
 
-### 🌐 FlowStudios
+### 🌐 FlowStudio
 
 <div align="center">
 
 ### Desenvolvimento • Tecnologia • Performance
 
-A **FlowStudios** é focada na criação de sistemas, ferramentas e experiências modernas, buscando sempre qualidade, performance, organização e inovação.
+A **Flow Studio** é focada na criação de sistemas, ferramentas e experiências modernas, buscando sempre qualidade, performance, organização e inovação.
 
 <br>
 
-<img src="https://img.shields.io/badge/FLOWSTUDIOS-49E241?style=for-the-badge&logoColor=white" alt="FlowStudios" />
+<img src="https://img.shields.io/badge/FLOWSTUDIOS-49E241?style=for-the-badge&logoColor=white" alt="Flow Studio" />
 
 </div>
 
@@ -126,11 +126,11 @@ A **FlowStudios** é focada na criação de sistemas, ferramentas e experiência
 
 <div align="center">
 
-Entre na comunidade da **FlowStudios** para acompanhar novidades, projetos, atualizações e trocar ideias.
+Entre na comunidade da **Flow Studio** para acompanhar novidades, projetos, atualizações e trocar ideias.
 
 <br><br>
 
-<a href="https://discord.gg/eyNRxr5Muf"><img src="https://img.shields.io/badge/Discord-FlowStudios-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord FlowStudios" /></a>
+<a href="https://discord.gg/eyNRxr5Muf"><img src="https://img.shields.io/badge/Discord-FlowStudios-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord FlowStudio" /></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/KiritoSama777"><img src="https://img.shields.io/badge/GitHub-KiritoSama777-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub KiritoSama777" /></a>
 
@@ -140,6 +140,6 @@ Entre na comunidade da **FlowStudios** para acompanhar novidades, projetos, atua
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=49E241&height=100&section=footer" width="100%" alt="FlowStudios Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=49E241&height=100&section=footer" width="100%" alt="Flow Studio Footer" />
 
 </div>
